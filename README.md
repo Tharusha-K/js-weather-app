@@ -1,0 +1,1 @@
+Part 1: Create Background and Search Bar with a basic Weather Forecast.
